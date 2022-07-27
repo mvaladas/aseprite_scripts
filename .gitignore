@@ -1,0 +1,5 @@
+#Ignore PIO and VSCODE Stuff
+.vscode/
+
+#Ignore MAC OS Stuff
+.DS_Store
